@@ -1,20 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1,Playboy TV
-http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/100.ts 
-#EXTINF:-1,Playboy TV HD
-http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/101.ts 
-#EXTINF:-1,HOT
-http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/79.ts 
-#EXTINF:-1,HOT HD
-http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/80.ts 
-#EXTINF:-1,Penthouse HD1
-http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/98.ts 
-#EXTINF:-1,Venus
-http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/177.ts
-
-#EXTINF:-1,PLAYBOY TV +18
-http://83.139.104.112/Content/HLS/Live/Channel(PLAYBOY_TV)/Stream(03)/index.m3u8
+http://91.134.217.235:1557/get.php?username=MIX39&password=U8vH97ycFz&type=m3u
 
 #EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== CHILE ==[/COLOR][/B]
 http://streaming203.radionomy.com:80/City-Dance-Radio
