@@ -1,7 +1,37 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,PLAYBOY TV +18
+http://83.139.104.112/Content/HLS/Live/Channel(PLAYBOY_TV)/Stream(03)/index.m3u8
 
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== CHILE ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TvnHD.png" group-title="NACIONALES",TVN 
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TVChile.png" group-title="NACIONALES",TVN Internacional
+http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/LogoMega2015.png" group-title="NACIONALES",Mega 
+http://edge-91-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Logo_CHV_2015.png" group-title="NACIONALES",CHV 
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Canal13hd.png" group-title="NACIONALES",Canal 13 
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logocdo.png"  group-title="NACIONALES", CDO HD
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 tvg-id="  Canal TyC Sports" tvg-name="Canal TyC Sports" tvg-logo="TyC Deportes" group-title="DEPORTES",TyC Deportes
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
+#EXTINF:-1,CANAL 13 CABLE HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1, MEGA HD
+http://edge-21-vtr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b900.m3u8?time=1467921726067
+#EXTINF:-1, CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1, TV CHILE
+http://edge-11-vtr.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8?time=1467926860545
 
+#EXTINF:-1, TYC SPORT 2
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish6/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
+#EXTINF:-1, UCV HD 
+http://spd.eltelon.com/ucvtv//ucvtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/c8zIihUuLdlk7PvzB5B4YUsZn7NNJ6iVbkiDl6bv3VmDB5RKukwv85YfCdzuK15u9bQ=w300",Azteca Noticias
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8
@@ -518,37 +548,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" group-title="COLOMBIA",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 
-
-
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== CHILE ==[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TvnHD.png" group-title="NACIONALES",TVN 
-http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TVChile.png" group-title="NACIONALES",TVN Internacional
-http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/LogoMega2015.png" group-title="NACIONALES",Mega 
-http://edge-91-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Logo_CHV_2015.png" group-title="NACIONALES",CHV 
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Canal13hd.png" group-title="NACIONALES",Canal 13 
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logocdo.png"  group-title="NACIONALES", CDO HD
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 tvg-id="  Canal TyC Sports" tvg-name="Canal TyC Sports" tvg-logo="TyC Deportes" group-title="DEPORTES",TyC Deportes
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
-#EXTINF:-1,CANAL 13 CABLE HD
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1, MEGA HD
-http://edge-21-vtr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b900.m3u8?time=1467921726067
-#EXTINF:-1, CHV HD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1, TV CHILE
-http://edge-11-vtr.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8?time=1467926860545
-
-#EXTINF:-1, TYC SPORT 2
-http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish6/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
-#EXTINF:-1, UCV HD 
-http://spd.eltelon.com/ucvtv//ucvtv.smil/playlist.m3u8
 
 
 .....................................--------------internacional.....---------------
